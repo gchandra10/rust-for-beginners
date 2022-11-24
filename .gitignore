@@ -1,0 +1,4 @@
+note_to_self/
+target/
+*/target/
+*/Cargo.lock

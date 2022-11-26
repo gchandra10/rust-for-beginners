@@ -27,4 +27,4 @@ creates a folder with xx_ and package name with different text.
 - 12_bool_datatype/
 - 13_str_datatype/
 - 14_str_based_scripts/
-
+- 15_arr_datatype/

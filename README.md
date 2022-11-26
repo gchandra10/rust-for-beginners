@@ -4,9 +4,9 @@ Contains scripts covering Rust basics. Some may seem to be complicated, but they
 
 **Fork this repository this way you can clone and make necessary changes. Please click the Star icon before forking.**
 
-## How did I reate a new package
+## How did I create a new package
 
-By default you cannot create a package name starting with numeric value. So parameter --name is used so Rust 
+By default you cannot create a package name starting with numeric value. So parameter --name is used so Cargo 
 creates a folder with xx_ and package name with different text.
 
 ```cargo new 01_hello --name hello```
@@ -22,3 +22,5 @@ creates a folder with xx_ and package name with different text.
 - 07_if/
 - 08_match/
 - 09_match_tuple/
+- 10_int_datatype/
+- 11_float_datatype/
